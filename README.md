@@ -2,6 +2,8 @@
 
 A modern React application built with Redux Toolkit for managing and browsing products from the Fake Store API. This project demonstrates proficiency in building modern frontend applications with React, Redux Toolkit, and comprehensive testing.
 
+**🌐 Live Demo**: [https://product-dashboard-amber.vercel.app/](https://product-dashboard-amber.vercel.app/)
+
 ## 📋 Table of Contents
 
 - [Features](#-features)
@@ -323,6 +325,10 @@ npm run test:coverage
 
 ## 🚢 Deployment
 
+**🌐 Live Application**: [https://product-dashboard-amber.vercel.app/](https://product-dashboard-amber.vercel.app/)
+
+The application is deployed on Vercel and accessible at the link above.
+
 ### Deploy to Vercel
 
 #### Quick Deploy
@@ -467,7 +473,7 @@ Built as part of a Frontend Developer assignment demonstrating proficiency in:
 
 ---
 
-**Live Demo**: [Deployed on Vercel](#-deployment)
+**Live Demo**: [https://product-dashboard-amber.vercel.app/](https://product-dashboard-amber.vercel.app/) - [Deployed on Vercel](#-deployment)
 
 **Test Coverage**: Run `npm run test:coverage` to generate detailed coverage reports
 
