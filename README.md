@@ -51,7 +51,7 @@ A modern React application built with Redux Toolkit for managing and browsing pr
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/YOUR_USERNAME/product-dashboard.git
+   git clone https://github.com/Vanshika-RJIT/product-dashboard.git
    cd product-dashboard
    ```
 
